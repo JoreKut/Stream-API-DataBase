@@ -27,7 +27,7 @@ You can make as many random objects of this class as you like.
 
 #### As you can see, there is output formatting.
 
-Everything happens in the `LearningZone` class in the `startExpedition` method.
+Everything happens in the `LearningZone` class in the `startExpedition()` method.
 
 ![](com/Screenshots/startExpedition.png)
 
