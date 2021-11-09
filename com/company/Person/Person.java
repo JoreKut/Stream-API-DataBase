@@ -1,7 +1,6 @@
-package com.company;
+package com.company.Person;
 
 import com.company.Vehicles.Vehicle;
-import com.company.Vehicles.VehicleType;
 
 import java.util.Random;
 

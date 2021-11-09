@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.Person.Gender;
+import com.company.Person.Person;
 import com.company.Vehicles.VehicleType;
 
 import java.util.ArrayList;

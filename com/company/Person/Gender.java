@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Person;
 
 import java.util.Random;
 

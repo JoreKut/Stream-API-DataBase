@@ -1,6 +1,6 @@
 package com.company.Vehicles;
 
-import com.company.OutputFormat;
+import com.company.Person.OutputFormat;
 
 import java.util.Random;
 
