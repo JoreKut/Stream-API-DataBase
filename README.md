@@ -31,7 +31,7 @@ Everything happens in the `LearningZone` class in the `startExpedition()` method
 
 ![](com/Screenshots/startExpedition.png)
 
-Here you can do whatever you want with the `generation<Person>` ArrayList.
+Here you can do whatever you want with the `generation` ArrayList.
 
 #### An expamle of this output
 
