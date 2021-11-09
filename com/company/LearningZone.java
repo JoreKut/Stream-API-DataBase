@@ -17,7 +17,10 @@ public class LearningZone {
         for(int i = 0; i < entityNumber; i++){
             generation.add(Person.getUnknownPerson());
         }
-        System.out.println(Person.getFields());
+
+
+        System.out.println(Person.getFields()); // Выводим шапочку
+
 
         generation.stream()
                 .filter(p -> p.gender.equals(Gender.Female))
