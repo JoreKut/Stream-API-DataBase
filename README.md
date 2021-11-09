@@ -31,7 +31,7 @@ Everything happens in the `LearningZone` class in the `startExpedition()` method
 
 ![](com/Screenshots/startExpedition.png)
 
-Here you can do whatever you want with the `generation` ArrayList.
+Here you can do whatever you want with the `generation<Person>` ArrayList.
 
 #### An expamle of this output
 
@@ -39,5 +39,5 @@ Here you can do whatever you want with the `generation` ArrayList.
 
 ---
 
-### Of course, you can extend Person and add your fields for more practice.
+### Of course, you can extend Person class and add your fields for more practice.
 ### I hope, that this project will helps someone to skip preparing routine to Stream API practice.
